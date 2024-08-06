@@ -5,50 +5,130 @@
       "id": 1,
       "question": "Qual arma você escolheria para se defender?",
       "options": [
-        { "id": 1, "name": "Faca", "alias": "A" },
-        { "id": 2, "name": "Pistola", "alias": "B" },
-        { "id": 3, "name": "Espingarda", "alias": "A" },
-        { "id": 4, "name": "Arco e flecha", "alias": "B" },
-        { "id": 5, "name": "Porrete", "alias": "A" }
+        {
+          "id": 1,
+          "name": "Faca",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "name": "Pistola",
+          "alias": "B"
+        },
+        {
+          "id": 3,
+          "name": "Espingarda",
+          "alias": "A"
+        },
+        {
+          "id": 4,
+          "name": "Arco e flecha",
+          "alias": "B"
+        }
       ]
     },
     {
       "id": 2,
       "question": "Qual seria sua prioridade?",
       "options": [
-        { "id": 1, "name": "Encontrar comida", "alias": "B" },
-        { "id": 2, "name": "Achar um abrigo seguro", "alias": "A" },
-        { "id": 3, "name": "Procurar outros sobreviventes", "alias": "B" }
+        {
+          "id": 1,
+          "name": "Procurar comida",
+          "alias": "B"
+        },
+        {
+          "id": 2,
+          "name": "Achar um abrigo seguro",
+          "alias": "A"
+        },
+        {
+          "id": 3,
+          "name": "Procurar outros sobreviventes",
+          "alias": "B"
+        },
+        {
+          "id": 4,
+          "name": "Armar armadilhas contra zumbis",
+          "alias": "A"
+        }
       ]
     },
     {
       "id": 3,
       "question": "O que você faria ao encontrar um grupo de zumbis?",
       "options": [
-        { "id": 1, "name": "Lutaria contra eles", "alias": "A" },
-        { "id": 2, "name": "Fugiria", "alias": "B" },
-        { "id": 3, "name": "Tentaria distraí-los", "alias": "B" },
-        { "id": 4, "name": "Procuraria outro caminho", "alias": "A" }
+        {
+          "id": 1,
+          "name": "Lutaria contra eles",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "name": "Fugiria",
+          "alias": "B"
+        },
+        {
+          "id": 3,
+          "name": "Tentaria distraí-los",
+          "alias": "B"
+        },
+        {
+          "id": 4,
+          "name": "Procuraria outro caminho",
+          "alias": "A"
+        }
       ]
     },
     {
       "id": 4,
       "question": "Qual é a sua maior habilidade?",
       "options": [
-        { "id": 1, "name": "Força física", "alias": "A" },
-        { "id": 2, "name": "Inteligência e estratégia", "alias": "B" },
-        { "id": 3, "name": "Habilidade com armas", "alias": "A" },
-        { "id": 4, "name": "Sobrevivência na natureza", "alias": "B" }
+        {
+          "id": 1,
+          "name": "Força física",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "name": "Inteligência e estratégia",
+          "alias": "B"
+        },
+        {
+          "id": 3,
+          "name": "Habilidade com armas",
+          "alias": "A"
+        },
+        {
+          "id": 4,
+          "name": "Sobrevivência na natureza",
+          "alias": "B"
+        }
       ]
     },
     {
       "id": 5,
       "question": "Qual seria seu esconderijo ideal?",
       "options": [
-        { "id": 1, "name": "Um shopping center", "alias": "A" },
-        { "id": 2, "name": "Uma cabana na floresta", "alias": "B" },
-        { "id": 3, "name": "Um porão reforçado", "alias": "A" },
-        { "id": 4, "name": "Um prédio alto", "alias": "B" }
+        {
+          "id": 1,
+          "name": "Um shopping center",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "name": "Uma cabana na floresta",
+          "alias": "B"
+        },
+        {
+          "id": 3,
+          "name": "Um porão reforçado",
+          "alias": "A"
+        },
+        {
+          "id": 4,
+          "name": "Um prédio alto",
+          "alias": "B"
+        }
       ]
     }
   ],
